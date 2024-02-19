@@ -1,4 +1,4 @@
 # rye-project-tst
 
-First line Margit
-Second line Margit
+Firt line from Brigit
+Second line from Brigit - updated
